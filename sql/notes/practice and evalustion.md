@@ -1,0 +1,5 @@
+[SQL-Advanced-Completed-Assignment.docx](https://github.com/user-attachments/files/34211502/SQL-Advanced-Completed-Assignment.docx)
+[SQL-Intermediate-Completed-Assignment.docx](https://github.com/user-attachments/files/34211500/SQL-Intermediate-Completed-Assignment.docx)
+[SQL-Basic-Completed-Assignment.docx](https://github.com/user-attachments/files/34211497/SQL-Basic-Completed-Assignment.docx)
+[employie table (1).sql](https://github.com/user-attachments/files/34211436/employie.table.1.sql)
+[SQL-Practice-Exercises.docx](https://github.com/user-attachments/files/34211413/SQL-Practice-Exercises.docx)
