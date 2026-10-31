@@ -1,0 +1,12 @@
+[Python Module3.4 (1).ipynb](https://github.com/user-attachments/files/34218693/Python.Module3.4.1.ipynb)
+[Copying vs Referencing1.18 (1).ipynb](https://github.com/user-attachments/files/34218691/Copying.vs.Referencing1.18.1.ipynb)
+[Built in Functions1.17 (1).ipynb](https://github.com/user-attachments/files/34218686/Built.in.Functions1.17.1.ipynb)
+[List Comprehension in Python1.15 (1).ipynb](https://github.com/user-attachments/files/34218681/List.Comprehension.in.Python1.15.1.ipynb)
+[Data Structures1.14 (1).ipynb](https://github.com/user-attachments/files/34218679/Data.Structures1.14.1.ipynb)
+[Functions and Lambda functions 1.8 (2).ipynb](https://github.com/user-attachments/files/34218672/Functions.and.Lambda.functions.1.8.2.ipynb)
+[Functions and Lambda functions 1.8 (2).ipynb](https://github.com/user-attachments/files/34218669/Functions.and.Lambda.functions.1.8.2.ipynb)
+[Loops in Python1.7 (1).ipynb](https://github.com/user-attachments/files/34218667/Loops.in.Python1.7.1.ipynb)
+
+[Data Types 1.2  (2).ipynb](https://github.com/user-attachments/files/34218660/Data.Types.1.2.2.ipynb)
+[Python Notes (Internship) (1).docx](https://github.com/user-attachments/files/34218654/Python.Notes.Internship.1.docx)
+[Python.pdf](https://github.com/user-attachments/files/34218574/Python.pdf)
